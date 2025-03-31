@@ -5,5 +5,4 @@
 <script type="text/javascript">
 alert('NetSPI');
 </script>
-<img src="x" onerror="alert('DOMPurify bypassed!!!')">
 </svg> 
