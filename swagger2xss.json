@@ -1,0 +1,9 @@
+{
+    "definitions": {
+        "arbitraryVal": {
+            "properties": {
+                "<script>alert(document.domain)</script>": "LoremIpsum"
+                }
+            }
+        }
+}
